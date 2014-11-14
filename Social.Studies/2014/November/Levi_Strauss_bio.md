@@ -1,4 +1,4 @@
-Activity 1
+## Activity 1
 
 1. Why did Strauss move to San Francisco?
 
@@ -26,7 +26,7 @@ Waist Overalls
 
 Because Levi four nephews started the company again.
 
-Activity 2
+## Activity 2
 
 Read the "History of Denim" and "History of Levi's 501 Jeans" to find examples of different types productive resources and intermediate goods and complete the chart. 
 
