@@ -1,0 +1,5 @@
+digraph g{
+  "Ferrari tire" -> "oil" -> "oil rig" -> "metal"
+  "oil rig" -> "workers"
+  "oil rig" -> "government" -> "country" "Earth"-> "Big Bang" -> "?"
+}
